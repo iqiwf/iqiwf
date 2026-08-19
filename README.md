@@ -1,35 +1,30 @@
+<!-- ═══════════ HEADER WAVE ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,17&height=140&section=header&text=Manusia%20Biasa&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=just%20an%20ordinary%20human%2C%20quietly%20building%20things&descSize=14&descColor=cccccc" alt="Manusia Biasa"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,17&height=180&section=header&text=Manusia%20Biasa&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=just%20an%20ordinary%20human%2C%20quietly%20building%20things&descSize=15&descAlignY=58&descColor=dddddd" width="100%" alt="header wave"/>
+</p>
+
+<!-- ═══════════ TYPING ANIMATION ═══════════ -->
+<p align="center">
+  <a href="https://github.com/iqiwf">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=520&height=100&lines=%F0%9F%8C%92+Manusia+Biasa...;quietly+building+things...;low+profile.%20high+quality.;no+name.+no+face.+just+commits.;cuma+manusia+biasa+%F0%9F%98%B6" alt="typing animation"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifqi0347&color=blueviolet&style=flat-square&label=profile+visits" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=iqiwf&color=blueviolet&style=for-the-badge&label=PROFILE+VISITS" alt="profile views"/>
 </p>
 
-<h1 align="center">🌒 hi, i'm nobody important.</h1>
-
-<p align="center">
-  <em>"Just an ordinary human — quietly building things on the internet."</em><br/>
-  <em>Cuma manusia biasa — diam-diam membangun sesuatu di internet.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rifqi0347"><img src="https://img.shields.io/badge/github-%40rifqi0347-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
-  <a href="https://github.com/rifqi0347/universal-project-intelligence"><img src="https://img.shields.io/badge/🧠_universal--project--intelligence-building-blueviolet?style=flat-square" alt="upi"/></a>
-  <a href="https://github.com/rifqi0347/evolving-web-design"><img src="https://img.shields.io/badge/🎨_evolving--web--design-building-ff69b4?style=flat-square" alt="ewd"/></a>
-  <img src="https://img.shields.io/badge/location-Indonesia 🇮🇩-red?style=flat-square" alt="indonesia"/>
-</p>
-
----
+<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ✦ about me · tentang saya
 
 ```yaml
-name: unknown
-role: manusia biasa
-location: somewhere in Indonesia 🇮🇩
-status: quietly building things
-motto: "low profile, high quality"
+name     : unknown
+role     : manusia biasa 🌒
+location : somewhere in Indonesia 🇮🇩
+status   : quietly building things
+motto    : "low profile, high quality"
 ```
 
 **EN** — I don't do introductions. I build: AI agent skills, web tools,
@@ -40,51 +35,56 @@ just work that speaks when it's ready.
 web tools, dan sistem kecil yang menyelesaikan masalah nyata. Tanpa
 kegaduhan, tanpa pencitraan — biar karya yang bicara.
 
----
+<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ✦ currently building · sedang dibangun
 
-| project | what it does |
-|---|---|
-| 🧠 [**universal-project-intelligence**](https://github.com/rifqi0347/universal-project-intelligence) | turns raw, vague requests → understood, planned, built & verified systems. a planning + architecture + orchestration skill for AI agents. |
-| 🎨 [**evolving-web-design**](https://github.com/rifqi0347/evolving-web-design) | design intelligence for AI coding assistants — original, contemporary websites, free from "AI-slop". |
+| | project | what it does |
+|---|---|---|
+| 🧠 | [**universal-project-intelligence**](https://github.com/iqiwf/universal-project-intelligence) | turns raw, vague requests → understood, planned, built & verified systems — a planning + architecture + orchestration skill for AI agents |
+| 🎨 | [**evolving-web-design**](https://github.com/iqiwf/evolving-web-design) | design intelligence for AI coding assistants — original, contemporary websites, free from "AI-slop" |
 
----
+<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ✦ toolbox · perkakas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="py"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="go"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="node"/>
-  <img src="https://img.shields.io/badge/React-23272F?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="ai"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,nodejs,react,docker,git,github,linux&theme=dark" alt="skills"/>
+  </a>
 </p>
 
----
+<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ✦ numbers · angka
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rifqi0347&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="stats"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rifqi0347&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iqiwf&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy"/>
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqi0347&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iqiwf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=iqiwf&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
----
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqiwf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+</p>
 
+<!-- ═══════════ SNAKE EATING CONTRIBUTIONS ═══════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iqiwf/output/github-contribution-snake.svg" alt="snake eating my contributions"/>
+</p>
+
+<!-- ═══════════ FOOTER ═══════════ -->
 <p align="center">
   <sub>🌒 no name. no face. just commits.</sub><br/>
   <sub><em>tidak ada nama. tidak ada wajah. hanya karya.</em></sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,17&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,17&height=120&section=footer" width="100%" alt="footer wave"/>
 </p>
